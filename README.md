@@ -6,7 +6,20 @@ I like to participate in open source projects and develop various interesting an
 
 ![Axetroy's github stats](https://github-readme-stats.vercel.app/api?username=axetroy&show_icons=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=gmock)](https://github.com/axetroy/gmock)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=s4)](https://github.com/axetroy/s4)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=hooker)](https://github.com/axetroy/hooker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=anti-redirect)](https://github.com/axetroy/anti-redirect)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axetroy)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/axetroy/gmock">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=gmock"/>
+</a>
+
+<a href="https://github.com/axetroy/s4">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=s4"/>
+</a>
+
+<a href="https://github.com/axetroy/hooker">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=hooker"/>
+</a>
+
+<a href="https://github.com/axetroy/anti-redirect">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=anti-redirect"/>
+</a>
