@@ -9,17 +9,17 @@ I like to participate in open source projects and develop various interesting an
 
 
 <a href="https://github.com/axetroy/gmock">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=gmock"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=gmock"/>
 </a>
 
 <a href="https://github.com/axetroy/s4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=s4"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=s4"/>
 </a>
 
 <a href="https://github.com/axetroy/hooker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=hooker"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=hooker"/>
 </a>
 
 <a href="https://github.com/axetroy/anti-redirect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=anti-redirect"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=anti-redirect"/>
 </a>
