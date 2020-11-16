@@ -15,4 +15,4 @@ I like to participate in open source projects and develop various interesting an
 [![anti-redirect](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=anti-redirect)](https://github.com/axetroy/anti-redirect)
 [![vscode-gpm](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=vscode-gpm)](https://github.com/axetroy/vscode-gpm)
 [![s4](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=s4&random=23333)](https://github.com/axetroy/s4)
-[![vd](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=vd)](https://github.com/axetroy/s4)
+[![vd](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=vd)](https://github.com/axetroy/vd)
