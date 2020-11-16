@@ -35,3 +35,7 @@ I like to participate in open source projects and develop various interesting an
 <a href="https://github.com/axetroy/vscode-gpm">
   <img align="left" src="https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=vscode-gpm"/>
 </a>
+
+<a href="https://github.com/axetroy/prune">
+  <img align="left" src="https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=prune"/>
+</a>
