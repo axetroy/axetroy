@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I’m Axetroy, a software developer who love Typescript and Golang.
+I’m Axetroy, a software developer who love Typescript and Golang. Currently trying vlang and I found I fall in love with it.
 
 I like to participate in open source projects and develop various interesting and useful tools.
 
