@@ -13,5 +13,6 @@ I like to participate in open source projects and develop various interesting an
 [![hooker](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=hooker)](https://github.com/axetroy/hooker)
 [![anti-redirect](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=anti-redirect)](https://github.com/axetroy/anti-redirect)
 [![crawler](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=crawler)](https://github.com/axetroy/crawler)
-[![vscode-gpm](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=vscode-gpm)](https://github.com/axetroy/vscode-gpm)
 [![prune](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=prune)](https://github.com/axetroy/prune)
+[![vscode-gpm](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=vscode-gpm)](https://github.com/axetroy/vscode-gpm)
+
