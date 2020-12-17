@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋 [![Page Views Count](https://badges.toozhao.com/badges/01ESRV9NPEJH3VMW803HDQQTQG/green.svg)](https://badges.toozhao.com/badges/01ESRV9NPEJH3VMW803HDQQTQG/green.svg "Get your own page views count badge on badges.toozhao.com")
 
 I’m Axetroy, a software developer who love Typescript and Golang. Currently trying vlang and I found I fall in love with it.
 
