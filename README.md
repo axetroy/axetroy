@@ -1,10 +1,8 @@
-### Hi 👋 [![Page Views Count](https://badges.toozhao.com/badges/01ESRV9NPEJH3VMW803HDQQTQG/green.svg)](https://badges.toozhao.com/badges/01ESRV9NPEJH3VMW803HDQQTQG/green.svg "Get your own page views count badge on badges.toozhao.com")
+### Hi 👋 
 
 I’m Axetroy, a software developer who love Typescript and Golang. Currently trying vlang and I found I fall in love with it.
 
 I like to participate in open source projects and develop various interesting and useful tools.
-
-🚀 I am currently applying to join JetBrains' Open Source License plan. Request ID=25112020/6231518 && I am very happy to be able to develop Golang via JetBrains products, it will be a great experience
 
 ![Axetroy's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=axetroy&show_icons=true)
 ![Top Langs](https://github-readme-stats-seven-gilt.vercel.app//api/top-langs/?username=axetroy&layout=compact)
