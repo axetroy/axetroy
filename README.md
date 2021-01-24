@@ -18,3 +18,4 @@ I like to participate in open source projects and develop various interesting an
 [![vd](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=vd&random=23333)](https://github.com/axetroy/vd)
 [![whatchanged](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=whatchanged)](https://github.com/axetroy/whatchanged)
 [![dvs](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=dvs&random=123)](https://github.com/axetroy/dvs)
+[![fslint](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=fslint&random=123)](https://github.com/axetroy/fslint)
