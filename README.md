@@ -19,3 +19,4 @@ I like to participate in open source projects and develop various interesting an
 [![whatchanged](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=whatchanged)](https://github.com/axetroy/whatchanged)
 [![dvs](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=dvs&random=123)](https://github.com/axetroy/dvs)
 [![fslint](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=fslint&random=123)](https://github.com/axetroy/fslint)
+[![setup-deno](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=denolib&repo=setup-deno&random=123)](https://github.com/denolib/setup-deno)
