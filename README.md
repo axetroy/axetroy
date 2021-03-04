@@ -20,3 +20,11 @@ I like to participate in open source projects and develop various interesting an
 [![dvs](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=dvs&random=123)](https://github.com/axetroy/dvs)
 [![fslint](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=fslint&random=123)](https://github.com/axetroy/fslint)
 [![setup-deno](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=denolib&repo=setup-deno&random=123)](https://github.com/denolib/setup-deno)
+
+特别感谢 [JetBrains](https://www.jetbrains.com/?from=go-server) 为我的开源项目提供免费的 [IntelliJ GoLand](https://www.jetbrains.com/go/?from=go-server) 授权
+
+<p>
+ <a href="https://www.jetbrains.com/?from=ferry">
+   <img height="200" src="https://www.fdevops.com/wp-content/uploads/2020/09/1599213857-jetbrains-variant-4.png">
+ </a>
+</p>
