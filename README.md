@@ -21,7 +21,7 @@ I like to participate in open source projects and develop various interesting an
 [![fslint](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=fslint&random=123)](https://github.com/axetroy/fslint)
 [![setup-deno](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=denolib&repo=setup-deno&random=123)](https://github.com/denolib/setup-deno)
 [![watchdog](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=watchdog&random=123)](https://github.com/axetroy/watchdog)
-[![cross-env](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=cross-env&random=123)](https://github.com/axetroy/cross-env)
+[![cross-env](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=cross-env&random=321)](https://github.com/axetroy/cross-env)
 
 特别感谢 [JetBrains](https://www.jetbrains.com/?from=go-server) 为我的开源项目提供免费的 [IntelliJ IDEA](https://www.jetbrains.com/go/?from=go-server) 授权
 
