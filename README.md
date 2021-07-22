@@ -4,8 +4,10 @@ I’m Axetroy, a software developer who love Typescript and Golang. Currently tr
 
 I like to participate in open source projects and develop various interesting and useful tools.
 
-![Axetroy's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=axetroy&show_icons=true)
-![Top Langs](https://github-readme-stats-seven-gilt.vercel.app//api/top-langs/?username=axetroy&layout=compact)
+<!-- ![Axetroy's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=axetroy&show_icons=true)
+![Top Langs](https://github-readme-stats-seven-gilt.vercel.app//api/top-langs/?username=axetroy&layout=compact) -->
+![](https://github.com/axetroy/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/axetroy/github-stats/blob/master/generated/languages.svg)
 
 
 [![gmock](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=gmock)](https://github.com/axetroy/gmock)
