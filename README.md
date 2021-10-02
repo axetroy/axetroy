@@ -18,7 +18,7 @@ I like to participate in open source projects and develop various interesting an
 [![vscode-gpm](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=vscode-gpm)](https://github.com/axetroy/vscode-gpm)
 [![s4](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=s4&random=23333)](https://github.com/axetroy/s4)
 [![vd](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=vd&random=23333)](https://github.com/axetroy/vd)
-[![whatchanged](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=whatchanged)](https://github.com/axetroy/whatchanged)
+[![whatchanged](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=whatchanged-community&repo=whatchanged)](https://github.com/whatchanged-community/whatchanged)
 [![dvs](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=dvs&random=123)](https://github.com/axetroy/dvs)
 [![fslint](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=axetroy&repo=fslint&random=123)](https://github.com/axetroy/fslint)
 [![setup-deno](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=denolib&repo=setup-deno&random=123)](https://github.com/denolib/setup-deno)
