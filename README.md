@@ -1,8 +1,10 @@
 ### Hi 👋 
 
-I’m Axetroy, a software developer who love Typescript and Golang. Currently trying vlang and I found I fall in love with it.
+I’m Axetroy, a software developer who love Rust & Golang & Typescript.
 
-I like to participate in open source projects and develop various interesting and useful tools.
+I have participated in the open source project and wrote hundreds of tools.
+
+Welcome to follow me.
 
 <!-- ![Axetroy's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=axetroy&show_icons=true)
 ![Top Langs](https://github-readme-stats-seven-gilt.vercel.app//api/top-langs/?username=axetroy&layout=compact) -->
