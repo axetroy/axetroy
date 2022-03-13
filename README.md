@@ -2,7 +2,7 @@
 
 I’m Axetroy, a software developer who love Rust & Golang & Typescript.
 
-I have participated in the open source project and wrote hundreds of tools.
+I participated in many open source projects and wrote hundreds of tools.
 
 Welcome to follow me.
 
