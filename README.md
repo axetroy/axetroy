@@ -20,3 +20,5 @@ Nice to see you, the world!
 </p>
 
 PS: [来，聊聊](https://github.com/axetroy/axetroy/issues/new)
+
+![](https://komarev.com/ghpvc/?username=axetroy)
