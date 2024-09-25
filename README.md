@@ -16,12 +16,6 @@ Nice to see you, the world!
 
 特别感谢 [JetBrains](https://www.jetbrains.com/?from=go-server) 为我的开源项目提供免费的 [IntelliJ IDEA](https://www.jetbrains.com/go/?from=go-server) 授权
 
-<p>
- <a href="https://www.jetbrains.com/?from=ferry">
-   <img height="200" src="https://www.fdevops.com/wp-content/uploads/2020/09/1599213857-jetbrains-variant-4.png">
- </a>
-</p>
-
 PS: [来，聊聊](https://github.com/axetroy/axetroy/issues/new)
 
 ![](https://komarev.com/ghpvc/?username=axetroy)
