@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-I’m Axetroy, a software developer who love Coding.
+I’m Axetroy, a software developer who love coding.
 
 I participated in many open source projects and wrote hundreds of tools.
 
