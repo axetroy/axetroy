@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-I’m Axetroy, a software developer who love Rust & Golang & Typescript.
+I’m Axetroy, a software developer who love Coding.
 
 I participated in many open source projects and wrote hundreds of tools.
 
