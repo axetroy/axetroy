@@ -18,8 +18,4 @@ Nice to see you, the world!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=iconfont-componentized)](https://github.com/axetroy/iconfont-componentized)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axetroy&repo=anti-redirect)](https://github.com/axetroy/anti-redirect)
 
-特别感谢 [JetBrains](https://www.jetbrains.com/?from=go-server) 为我的开源项目提供免费的 [IntelliJ IDEA](https://www.jetbrains.com/go/?from=go-server) 授权
-
-PS: [来，聊聊](https://github.com/axetroy/axetroy/issues/new)
-
 ![](https://komarev.com/ghpvc/?username=axetroy)
